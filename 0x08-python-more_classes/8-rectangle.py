@@ -1,5 +1,5 @@
-ass that defines a rectangle"""
-
+#!/usr/bin/python3
+"""Defines a rectangle"""
 
 class Rectangle:
     """this represents a rectangle"""
