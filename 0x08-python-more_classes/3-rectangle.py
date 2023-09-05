@@ -2,7 +2,6 @@
 """Defines a rectangle"""
 
 
-
 class Rectangle:
     """Defines a rectangle based on 2-rectangle.py"""
 
